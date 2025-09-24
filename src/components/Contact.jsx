@@ -13,7 +13,7 @@ const Contact = () => {
     >
       <h2 className="text-4xl font-bold mb-4">Get In Touch</h2>
       <p className="max-w-xl text-text-dark mb-8">
-        I'm currently open to new opportunities and collaborations. Whether you have a question or just want to say hi, my inbox is always open and I'll get back to you!
+        If you're building in / excited about AI or just wanna chat, say hi on X!
       </p>
       <motion.a
         href="mailto:your-email@example.com"

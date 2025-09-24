@@ -50,6 +50,7 @@ const Hero = () => {
           <a href="https://github.com/GuptaKJatin" target="_blank" rel="noreferrer" className="text-3xl text-text-dark hover:text-secondary transition-colors"><FaGithub /></a>
           <a href="https://www.linkedin.com/in/jatin-kumar-gupta-1b02b0214/" target="_blank" rel="noreferrer" className="text-3xl text-text-dark hover:text-secondary transition-colors"><FaLinkedin /></a>
           <a href="https://www.instagram.com/mr._jatin_/" target="_blank" rel="noreferrer" className="text-3xl text-text-dark hover:text-secondary transition-colors"><FaInstagram /></a>
+          <a href="https://x.com/its_mr_jatin_" target="_blank" rel="noreferrer" className="text-3xl text-text-dark hover:text-secondary transition-colors"><FaTwitter /></a>
         </div>
       </motion.div>
     </section>

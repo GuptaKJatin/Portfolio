@@ -16,7 +16,7 @@ const Contact = () => {
         If you're building in / excited about AI or just wanna chat, say hi on X!
       </p>
       <motion.a
-        href="mailto:your-email@example.com"
+        href="mailto:gupta.k.jatin@gmail.com"
         className="px-8 py-4 border border-secondary text-secondary font-semibold rounded-lg shadow-lg hover:bg-secondary hover:text-white transition-all duration-300"
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
